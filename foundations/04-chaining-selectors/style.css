@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+.original.proportioned{
+    height: 300px;
+    width: auto;
+}
+
+.original.distorted{
+    height: 400px;
+    width: 200px;
+}
